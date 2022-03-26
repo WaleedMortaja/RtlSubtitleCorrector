@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RtlSubtitleCorrector:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RtlSubtitleCorrector_jar</output-path>
+    <root id="archive" name="RtlSubtitleCorrector.jar">
+      <element id="module-output" name="RtlSubtitleCorrector" />
+    </root>
+  </artifact>
+</component>
